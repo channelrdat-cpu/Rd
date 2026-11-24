@@ -1002,7 +1002,7 @@ class _AssistantWorkspaceScreenState extends State<AssistantWorkspaceScreen>
       (
         'High-Risk: Clean Downloads',
         'Delete old temporary archive files from my Downloads folder',
-        Icons.Cleaning_services_outlined,
+        Icons.cleaning_services,
       ),
       (
         'Call Mom on Speaker',
